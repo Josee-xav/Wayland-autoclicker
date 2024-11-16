@@ -7,6 +7,6 @@ first lil program ive done for linux so be kind because im not used to the mess 
 uses uinput FOR clickyclicky 
 uses libinput FOR detecthing user pressing CTRL anywhere to activate the autoclicker  
 
-It currently only works with sudo due to the libinput. it can easily be stripped out for a non sudo version . needed this because am lazy
+It currently only works with sudo due to the libinput because of the way plasma wayland is designed. it can easily be stripped out for a non sudo version if u  dont need a hotkey to activate.
 
 
